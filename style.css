@@ -1,0 +1,31 @@
+.content {
+    width: 460px;
+    width: 450px;
+    background: #fefef;
+    border: 2px solid green;
+   margin-left: 550px
+    
+}
+
+h1 {
+    color: aliceblue;
+    background: #00B33D;
+    padding: 20px;
+    text-align: center;
+}
+
+.submit {
+    padding: 10px 145px 10px 145px;
+    color: aliceblue;
+    background: #00B33D;
+    margin-top: 20px;
+    font-size: 50px;
+
+}
+
+#firstname {
+    padding: 15px 284px 12px 0px;
+    margin-top: 20px;
+
+}
+body{ background:#30D4FF}
